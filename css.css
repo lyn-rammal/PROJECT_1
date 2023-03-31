@@ -1,0 +1,39 @@
+h3{
+    color: rgba(216, 109, 163, 0.831);
+    text-align: center;
+    background-color: rgb(68, 93, 108,0.626);
+}
+h1{
+    color: rgba(68, 93, 108, 0.626);
+    text-align: center;
+    background-color:rgba(216, 109, 163, 0.831) ;
+}
+.c.h1{
+    background-color: rgba(216, 109, 163, 0.831);
+    text-align: center;
+}
+
+a[href="contact.html"]{
+background-color: rgba(68, 93, 108, 0.626);
+color: rgba(216, 109, 163, 0.831);
+text-decoration: none;
+text-transform: capitalize;
+font-weight: bold;
+
+
+
+}
+.button {
+    border: 0;
+    padding: 10px;
+    box-shadow: -2px -2px 5px gray, 2px 2px 5px gray;
+    margin: 120px;
+    color: rgba(216, 109, 163, 0.831);
+  }
+  label{
+    color: rgba(216, 109, 163, 0.831);
+    font-size: medium;
+  }
+  h4{
+    color:rgba(68, 93, 108, 0.626) ;
+  }
